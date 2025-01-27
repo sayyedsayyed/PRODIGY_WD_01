@@ -1,0 +1,62 @@
+#logoname:hover ,nav:hover,#sign:hover , a:hover, #searchbar:hover,#user:hover{color: black;}
+body { 
+        background-image: url(back.jpg);
+        margin: 0;
+        color:black;
+        font-family: Arial, Helvetica, sans-serif;
+     }
+nav {
+      background-color: black;
+      height:25px;
+      padding: 10px;
+      position:fixed;
+      top:0;
+      width:100%;
+      overflow: hidden;
+    } 
+a  { 
+     line-height: none;
+     padding-left: 5px;
+     color:white;
+     font-size: 20px;
+   }
+.main {
+       padding-top: 50px;
+     }
+#home {
+      padding-left: 50px;
+   }
+.my{
+    height:25px;
+    width:300px;
+    margin-left: 600px;
+    border-radius: 20px;
+  }
+label {
+      padding-left: 10px;
+     }
+#logoname {
+      color:lime;
+   }
+#sign { 
+    margin-left:3px;
+    color:white;
+  }
+.last {   
+      align-content: center;
+      border-color: lawngreen;
+      padding-left: 500px;
+      height:30px;
+      background-color:orange;
+      color:black;
+      font-size: medium;
+   }
+#searchbar{
+        color: white;
+        height:25px;
+        align-self: center;
+    }
+#user{
+    color: white;
+    margin-left:45px;
+  }
